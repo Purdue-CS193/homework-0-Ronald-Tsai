@@ -21,14 +21,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**HELLO WORLD!!!**
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-[Purdue's Website](https://www.purdue.edu/)
 ```
+**HELLO WORLD!!!**
+[Purdue's Website](https://www.purdue.edu/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
