@@ -1,3 +1,12 @@
+# Ronald Tsai's First CS193 Homework
+
+### My Favorite Things About CS193:
+- 193 is my favorite number.
+- The person grading my assignments is very cool.
+- It seems to teach useful skills in CS in general.
+- We only have to meet once a week.
+- There are a lot of resources available to students.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
